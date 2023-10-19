@@ -1,0 +1,71 @@
+.content {
+    background-color: #753f3f;
+    width: 100%;
+    margin-top: 30px;
+    height: 840px;
+    display: flex;
+
+}
+.client {
+    background-position : center;
+    background-repeat: no-repeat;
+    background-image: url("https://wallpapercave.com/wp/wp9423582.jpg") ;
+    background-size: cover;
+    padding: 19px;
+}
+
+.brand {
+    width: 100%;
+    background-image: url("https://wallpapers.com/images/hd/best-car-2yo62pbxeduobhxf.jpg");
+    background-position: center;
+    background-size: cover;
+    padding: 19px;
+}
+
+.desc {
+    background-image: url("https://motor.ru/thumb/1280x720/filters:quality(75)/imgs/2020/06/16/14/3959172/8757f73fca347f4eeef5083fcfb3de56f370167b.jpg");
+    background-position: center;
+    background-size: cover;
+    padding: 18px;
+}
+
+.inform {
+    border-radius: 15px;
+    width: 600px;
+    height: 800px;
+    backdrop-filter: blur(3px);
+    justify-content: center;
+}
+
+.forum {
+    color: #eec5c5;
+    width: 300px;
+    margin-left: 155px;
+    align-items: center;
+    text-align: center;
+}
+
+.text {
+    color: #eec5c5;
+    width: 360px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 120px;
+}
+
+.footer {
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 40px;
+    border-radius: 7px;
+    background-color: rgba(232, 155, 173, 0.34);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    text-decoration: none;
+}
+
+.href2 {
+    text-decoration: none;
+}
